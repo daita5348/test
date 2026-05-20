@@ -1,1 +1,1 @@
-int score = 10;
+int score = 20;

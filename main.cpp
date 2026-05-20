@@ -1,1 +1,2 @@
-int score = 30;
+int score = 25;
+
